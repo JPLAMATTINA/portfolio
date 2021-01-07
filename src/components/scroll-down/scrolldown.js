@@ -5,7 +5,7 @@ import Nav from "react-bootstrap/Nav";
 const MyScroll = styled.div`
   position: relative;
   z-index: 1000000;
-  margin: 650px 450px;
+  bottom: 2.9em;
   display: flex;
   width: 100%;
   justify-content: center;
