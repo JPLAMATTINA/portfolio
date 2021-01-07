@@ -20,10 +20,12 @@ const MyTitleMessage = styled.h1`
   }
   div {
     font-family: "Monserrat";
+    color: #fbdf7e;
+    /*
     background: -webkit-linear-gradient(#ff8f79, #fbdf7e);
     background-clip: text;
    -webkit-text-fill-color: transparent;
-
+    */
      font-weight: 100px;
     letter-spacing: 2px;
      .main {
