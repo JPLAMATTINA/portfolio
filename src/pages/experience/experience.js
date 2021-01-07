@@ -4,7 +4,7 @@ import { useTranslation } from "react-i18next";
 import Card from "react-bootstrap/Card";
 import "./experience.css";
 import L_GCBA from "./../../assets/img/profile/GCBA.svg"
-import L_TALLERV3D from "./../../assets/img/profile/TALLERV3D.PNG"
+import L_TALLERV3D from "./../../assets/img/profile/TALLERV3D.png"
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 
