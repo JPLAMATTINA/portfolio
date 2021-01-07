@@ -44,7 +44,7 @@
     width:20px;
     height:20px;
    }
-
+/*
    .jxrHmK.jxrHmK .url-button {
     display:inline-block;
     -webkit-text-decoration:none;
@@ -57,12 +57,8 @@
     margin:10px 5px 5px 0;
     color:#000000 !important;
    }
-
-   .gHthP::after {
-    position:absolute;
-    left:50%;
-    width:2px;
-    height:100%;
-    background-color:#f9c001 !important;
-    content:'';
+*/
+   .boton, .url-button{
+    background-color:#fbdf7e !important;
+    color:#000000 !important;
    }

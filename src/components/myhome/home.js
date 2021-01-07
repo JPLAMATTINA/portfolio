@@ -13,7 +13,7 @@ const MyHome = () =>{
                     <h2>PORTFOLIO</h2>
                     <h2>PORTFOLIO</h2>
              </div>
-            <img className="d-block w-100 custom-img" src={Home}  alt=''></img>
+            {/*<img className="d-block w-100 custom-img" src={Home}  alt=''></img>*/}
             </div>
             <ScrollDown/>
         </div>
