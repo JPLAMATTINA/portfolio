@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.229970c6.chunk.css",
-    "main.js": "/portfolio/static/js/main.8057bfd4.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8057bfd4.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ef662bd8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ef662bd8.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a7134a6f.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a7134a6f.js.map",
     "static/js/2.c5727a16.chunk.js": "/portfolio/static/js/2.c5727a16.chunk.js",
@@ -13,7 +13,7 @@
     "static/css/main.229970c6.chunk.css.map": "/portfolio/static/css/main.229970c6.chunk.css.map",
     "static/js/2.c5727a16.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c5727a16.chunk.js.LICENSE.txt",
     "static/media/Ai.f429cf4b.svg": "/portfolio/static/media/Ai.f429cf4b.svg",
-    "static/media/CV.3b3c621e.pdf": "/portfolio/static/media/CV.3b3c621e.pdf",
+    "static/media/CV.bdd24835.pdf": "/portfolio/static/media/CV.bdd24835.pdf",
     "static/media/Firebase.2b98562b.svg": "/portfolio/static/media/Firebase.2b98562b.svg",
     "static/media/GCBA.ae8bbe8f.svg": "/portfolio/static/media/GCBA.ae8bbe8f.svg",
     "static/media/Linkedin.4f00d78f.svg": "/portfolio/static/media/Linkedin.4f00d78f.svg",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.a7134a6f.js",
     "static/js/2.c5727a16.chunk.js",
     "static/css/main.229970c6.chunk.css",
-    "static/js/main.8057bfd4.chunk.js"
+    "static/js/main.ef662bd8.chunk.js"
   ]
 }
