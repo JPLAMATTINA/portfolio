@@ -60,22 +60,21 @@
 
    .gHthP::after {
     background-color:#f9c001 !important;
-
    }
 
     @media (max-width:400px){
 
     .gHthP::after {
-      position:absolute;
-      left:50%;
-      width:2px;
-      height:100%;
       background-color:#f9c001 !important;
-      content:'';
+
      }
    }
 
    .boton, .url-button{
     background-color:#fbdf7e !important;
     color:#000000 !important;
+   }
+
+   .cGvGsT.cGvGsT{
+    background-color:#fbdf7e !important;
    }
