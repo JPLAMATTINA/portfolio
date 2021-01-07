@@ -1,0 +1,29 @@
+.focus {
+    transition: transform 0.3s;
+  }
+  
+  .focus:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-title {
+    font-size: 2em;
+    font-weight: 700;
+  }
+  
+  .image-style {
+    width: 3em;
+  }
+  
+  
+  .font-style {
+    font-size: 3em;
+    font-weight: 500;
+    color: #fbdf7e;
+    /*-webkit-text-stroke: 0.4px #f9c001; to get a stroke line */
+  }
+
+  .card{
+    position: relative;
+  }
+  

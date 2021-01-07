@@ -1,0 +1,84 @@
+{
+    "navbar":{
+        "home":"Home", 
+        "about":"Acerca de Mi",
+        "skills":"Habilidades",
+        "experience":"Experiencia",
+        "projects":"Proyectos",
+        "contact":"Contacto"
+     },
+     "name":{
+        "greeting":"Hola, yo soy"
+     }
+     ,
+     "message":{
+        "message":"Desarrollador de Software",
+        "messageOne":"Diseñador Web",
+        "messageTwo":"Arquitecto"
+     },
+     "title":{
+      "about":"ACERCA DE MI",
+      "tech":"HABILIDADES",
+      "experience":"EXPERIENCIA",
+      "projects":"PROYECTOS",
+      "contact":"CONTACTO"
+},
+   "description":{
+      "info":"Necesitas Diseños Creativos? Una web tal vez? Puedo ayudarte",
+      "paragraph":"Crecí profesionalmente en el ámbito de la Arquitectura, recibido en FADU-UBA, con un fuerte criterio por el diseño, los espacios y la necesidad de resolver problemas. A lo largo de mi camino, eh buscado abrir mis posibilidades tanto en la arquitectura, como en la tecnología, con la necesidad de mostrar mis trabajos. De ahí, surge mi interés por la programación.",
+      "paragraph1":"Como iniciativa, realice la carrera de programación JAVA, para estar orientado en lenguajes de objetos y ser el puntapié inicial para comenzar mi carrera como software developer.",
+      "paragraph2":" Actualmente, me encuentro estudiando programación de desarrollo Web Full Stack integrando Html, Css, Javascript, React, Node.js, MondoDB, orientado a Front-end y back-end.",
+      "paragraph3":"Hoy en día me veo como un profesional en continua evolución que se adapta a las nuevas tecnologías y marcos de desarrollo."
+   },
+
+   "expertise":{
+      "place":"Gobierno de la Ciudad de Buenos Aires",
+      "software":"Desarrollador de Software",
+      "job":"Ministerio de Ambiente",
+      "jobTwo":"& Espacio Público",
+      "jobThree":"Dirección General de Reciclado",
+      "jobFour":"Gobierno de la Ciudad de Buenos Aires",
+      "state":"Arquitecto - Diseñador",
+      "duration":"Duración",
+      "tecno":"Tecnología",
+      "desc":"Descripción",
+      "web":"Desarrollor Web",
+      "design":"Arquitecto",
+      "design2nd":"Diseñador 3D",
+      "task":"Realización de proyectos e inspección de obra en los Centros Verdes. Asistencia técnica a ingenieros industriales para la ejecución de Plantas de Reciclado. Ejecución de planos de detalles, cómputo y presupuesto, licitaciones públicas, protocolos de inicio de obra, planes de trabajo, certficados de obra. Planos conforme a obra. Compra de materiales y subcontratos, comparatíva de precios, coordinación de entrega en las obras con su seguimiento y control, reclamos (remitos y facturas). Trato frecuente con proveedores.",
+      "task2nd":" Armado de diseños creativos para aplicaciones web junto al desarrollo de sus funciones.",
+      "task3rd":" Diseño de edificios en altura, viviendas unifamiliares y paisajismo",
+      "task4th":" Armado de imágenes y videos 3D"
+},
+      "date":{
+         "month0":"Presente",
+         "month3":"Febrero",    
+         "month8":"Agosto"              
+      },
+      "age":{
+         "age0":"2018",
+         "ageOne":"2016"
+      },
+      "project":{
+              "project1st":"App Clima",
+              "project2nd":"Curriculum Vitae",
+              "desc":"Descripción",
+              "tech":"Tecnologías Implementada",
+              "details":"DETALLES DEL PROYECTO",
+              "features":"Característica",
+              "live":"DEMO",
+              "code":"CODIGO FUENTE",
+              "list":"Permite saber el clima leyendo un archivo JSON",
+              "list1":"Desarrollado con React y Material UI",
+              "list2":"Diseño Responsivo",
+              "list3":"Primer Web App de Mi Portfolio, pruebas y errores pero sobre todo conocimiento",
+              "list4":"Permite conocer mis trabajos, con diseño responsivo y diseño estético",
+              "list5":"Desarrollado con React, react bootstrap. Hosteado con Vercel", 
+              "text":"Esta app clima está creada con React, permite la búsqueda del clima en cada ciudad recorriendo la información a través de un JSON",
+              "text1":"Este es mi CV. Estaba estudiando para convertirme en desarrollador de software y ganarme la vida con esto cuando lo creé al buscar Cv en la búsqueda de Google."
+      },
+
+      "wp":{
+         "message":"Gracias por contactarme.¿En que puedo ayudarte?"
+ }
+}

@@ -1,0 +1,68 @@
+.accordian-main {
+    cursor: pointer;
+    display: inline-block;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    font-size: 14px;
+    background-color: #fbdf7e;
+    border: none;
+    border-radius: 4px;
+  
+    padding: 10px;
+    color: #000000;
+    font-family: "monserrat";
+  }
+  
+  .list-styles {
+    list-style-type: circle;
+  }
+  
+  .image-style1 {
+    width: 3em;
+  }
+
+  .text-left{
+    font-family: "monserrat";
+  }
+  
+  .dWSdEd.dWSdEd {
+    position:relative;
+    background-color: #fbdf7e !important;
+    padding:4px;
+    color:#000000 !important;
+    border-radius:4px;
+    font-weight:500;
+    font-size:.85rem;
+   }
+
+   .fCuWlP.fCuWlP {
+    position:relative;
+    z-index:100;
+    background-color:#fff;
+    border:2px solid #fbdf7e !important;
+    border-radius:50%;
+    width:20px;
+    height:20px;
+   }
+
+   .jxrHmK.jxrHmK .url-button {
+    display:inline-block;
+    -webkit-text-decoration:none;
+    text-decoration:none;
+    font-size:14px;
+    background-color:#fbdf7e !important;
+    border:none;
+    border-radius:4px;
+    padding:6px;
+    margin:10px 5px 5px 0;
+    color:#000000 !important;
+   }
+
+   .gHthP::after {
+    position:absolute;
+    left:50%;
+    width:2px;
+    height:100%;
+    background-color:#f9c001 !important;
+    content:'';
+   }

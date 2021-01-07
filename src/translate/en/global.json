@@ -1,0 +1,82 @@
+{
+        "navbar": {
+                "home": "Home",
+                "about": "About",
+                "skills": "Skills",
+                "experience": "Experience",
+                "projects": "Projects",
+                "contact": "Contact"
+        },
+        "name": {
+                "greeting": "Hi, I am"
+        },
+        "message": {
+                "message": "Software Developer",
+                "messageOne": "Web Designer",
+                "messageTwo": "Architect"
+        },
+        "title": {
+                "about": "ABOUT ME",
+                "tech":"SKILLS",
+                "experience":"EXPERIENCE",
+                "projects":"PROJECTS",
+                "contact":"CONTACT ME"
+        },
+        "description": {
+                "info":"Do you need Creative Designs? A website maybe? I can help",
+                "paragraph":"I grew up professionally in the field of Architecture. I’m graduated at FADU – Buenos Aires University with strong judgment for design, space's living and the need to solve problems. Along my way, I had to open the possibilities in two ways: architecture and technology with the need to show my work. Hence, my interest in programming arises.",
+                "paragraph1":"As an initiative, I did the Java programming career, to orient myself in object's language to be the starting point for begin my career as a software developer",
+                "paragraph2":"Currently, I am studying Full Stack Web development integrating Html, CSS, Javascript, React, Node.js, MongoDB, oriented to Front-end and back-end.",
+                "paragraph3":"Today I see myself as a constantly evolving professional who adapts to new technologies and development frameworks."
+        },
+        "expertise":{
+                "place":"Buenos Aires City Government",
+                "software":"Software Developer",
+                "job":"Ministry of environment",
+                "jobTwo":"& Public Space",
+                "jobThree":"General Direction of recycling",
+                "jobFour":"Government of the City of Buenos Aires",
+                "state":"Architect - Designer",
+                "duration":"Duration",
+                "tecno":"Technology",
+                "desc":"Description",
+                "web":"Web Developer",
+                "design":"Architect designer",
+                "design2nd":"3D Designer",
+                "task":"Carrying out projects and construction inspection in the Green Centers of Buenos Aires City. Technical assistance to industrial’s engineers for the execution of Recycling Plants. Execution of detailed blueprints, calculation and budgets, public tenders, work start protocols, work certificates. Purchase of construction materials and subcontracts, coordination of delivery in the works with their monitoring and control.",
+                "task2nd":" Creative design for web apps and develop features.",
+                "task3rd":" Creative design architecture landings and building designs.",
+                "task4th":"Creative design image and video with 3D software"
+        },
+        "date":{
+                "month0":"Present",
+                "month3":"February", 
+                "month8":"August"               
+        },
+        "age":{
+                "age0":"2018",
+                "ageOne":"2016"
+             },
+        "project":{
+                "project1st":"Weather App",
+                "project2nd":"My Curriculum Resume",
+                "desc":"Description",
+                "features":"Features",
+                "tech":"Tech Used",
+                "details":"PROJECT DETAILS",
+                "live":"DEMO",
+                "code":"SOURCE CODE",
+                "list":"It let 's you know the weather reading a JSON file",
+                "list1":"Powered by React and Material UI",
+                "list2":"Responsive Design",
+                "list3":"1st Web App resume, let's the world know me",
+                "list4":"let's know my work, About me with a design and responsive design",     
+                "list5":"Powered by React, ReactBoostrap. Deployed with Vercel",              
+                "text":"This is a Weather app created with React and Material UI that let's you to know the weather for each city.",
+                "text1":"This is my Resume. I was studying for become a software developer and gain living with this when I created this from looking up Cv on google search"
+        },
+        "wp":{
+                "message":"Thank's for contacting me. What can I help you?"
+        }
+        
+}

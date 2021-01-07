@@ -1,0 +1,35 @@
+.about {
+    background-color: transparent;
+    font-size: 1.1em;
+  }
+
+.titleAbout{
+  display: flex;
+  justify-content: center;
+}
+
+.profile {
+    width: 25em;
+  }
+
+.textCenter{
+  color: black;
+  justify-content: center;
+  text-align: justify;
+}
+
+.textCenter-title{
+  color: black;
+  display: flex;
+  justify-content: center;
+  text-align:justify ;
+}
+
+    
+  .font-style {
+    font-size: 3em;
+    font-weight: 500;
+    color:#fbdf7e;
+  }
+
+
