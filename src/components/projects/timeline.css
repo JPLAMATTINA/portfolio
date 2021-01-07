@@ -57,7 +57,14 @@
     margin:10px 5px 5px 0;
     color:#000000 !important;
    }
-
+   .sTKsW{
+    background-color:rgb(251, 223, 126);
+   }
+   .sTKsW::after{
+    background-color:rgb(251, 223, 126);
+   }
+   
+   
    .gHthP::after {
     background-color:#f9c001 !important;
    }
@@ -77,4 +84,9 @@
 
    .cGvGsT.cGvGsT{
     background-color:#fbdf7e !important;
+    color: #000000 !important;
+   }
+
+   .iojalS.iojalS{
+     border: 2px solid rgb(251, 223, 126);
    }
