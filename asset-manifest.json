@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.229970c6.chunk.css",
-    "main.js": "/portfolio/static/js/main.2eeb54bf.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2eeb54bf.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.9f0ab74a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9f0ab74a.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a7134a6f.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a7134a6f.js.map",
     "static/js/2.c5727a16.chunk.js": "/portfolio/static/js/2.c5727a16.chunk.js",
@@ -19,7 +19,7 @@
     "static/media/Linkedin.4f00d78f.svg": "/portfolio/static/media/Linkedin.4f00d78f.svg",
     "static/media/PDF.fe7a1728.svg": "/portfolio/static/media/PDF.fe7a1728.svg",
     "static/media/PS.c3672211.svg": "/portfolio/static/media/PS.c3672211.svg",
-    "static/media/TALLERV3D.fccdc089.svg": "/portfolio/static/media/TALLERV3D.fccdc089.svg",
+    "static/media/TALLERV3D.44410776.PNG": "/portfolio/static/media/TALLERV3D.44410776.PNG",
     "static/media/WP.aa28ba11.svg": "/portfolio/static/media/WP.aa28ba11.svg",
     "static/media/bootstrap-4.997c463d.svg": "/portfolio/static/media/bootstrap-4.997c463d.svg",
     "static/media/css3.8fba365c.svg": "/portfolio/static/media/css3.8fba365c.svg",
@@ -49,6 +49,6 @@
     "static/js/runtime-main.a7134a6f.js",
     "static/js/2.c5727a16.chunk.js",
     "static/css/main.229970c6.chunk.css",
-    "static/js/main.2eeb54bf.chunk.js"
+    "static/js/main.9f0ab74a.chunk.js"
   ]
 }
