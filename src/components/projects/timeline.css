@@ -58,14 +58,14 @@
     color:#000000 !important;
    }
 
-   .gHthP:after {
+   .gHthP::after {
     background-color:#f9c001 !important;
 
    }
 
     @media (max-width:400px){
 
-    .gHthP:after {
+    .gHthP::after {
       position:absolute;
       left:50%;
       width:2px;
