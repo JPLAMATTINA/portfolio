@@ -145,7 +145,7 @@ const TimeLine = () => {
                           </Accordion>
                         </div>
                         <div className="text-left d-flex justify-content-between flex-nowrap text-center ">
-                          <UrlButton  className="boton"
+                          <UrlButton 
                             href=""
                             target="_blank"
                           >
