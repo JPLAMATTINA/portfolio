@@ -24,11 +24,12 @@
       "contact":"CONTACTO"
 },
    "description":{
-      "info":"Necesitas Diseños Creativos? Una web tal vez? Puedo ayudarte",
-      "paragraph":"Crecí profesionalmente en el ámbito de la Arquitectura, recibido en FADU-UBA, con un fuerte criterio por el diseño, los espacios y la necesidad de resolver problemas. A lo largo de mi camino, eh buscado abrir mis posibilidades tanto en la arquitectura, como en la tecnología, con la necesidad de mostrar mis trabajos. De ahí, surge mi interés por la programación.",
-      "paragraph1":"Como iniciativa, realice la carrera de programación JAVA, para estar orientado en lenguajes de objetos y ser el puntapié inicial para comenzar mi carrera como software developer.",
-      "paragraph2":" Actualmente, me encuentro estudiando programación de desarrollo Web Full Stack integrando Html, Css, Javascript, React, Node.js, MondoDB, orientado a Front-end y back-end.",
-      "paragraph3":"Hoy en día me veo como un profesional en continua evolución que se adapta a las nuevas tecnologías y marcos de desarrollo."
+      "paragraph":"Crecí profesionalmente en el ámbito de la Arquitectura, egresado de la Universidad de Buenos Aires en la Facultad de Arquitectura Diseño y Urbanismo, con un fuerte criterio por el diseño, los espacios y la necesidad de resolver problemas. A lo largo de mi carrera, tuve que encontrar nuevas formas de mostrar mi trabajo. Me siento apasionado con la tecnología y la arquitectura. Por eso comencé a entrené mis habilidades en hacer las cosas útiles para las personas y hacer que el espacio de vida sea más satisfactorio.",
+      "paragraph1":"En la programación encuentro una forma que me permite poner mi creatividad en la resolución de problemas, con el objetivo de mejorar las cosas para las personas que usan Internet para trabajar y divertirse. Quiero hacer la vida de ellos más dinámica y fluida con un trabajo volcado en el front-end de los sitios web o aplicaciones sin descuidar el back-end.",
+      "paragraph2":" Como iniciativa, hice la carrera de programación Java para orientarme en el lenguaje de objetos y ser el punto de partida por donde comenzar mi carrera como desarrollador de software.",
+      "paragraph3":"Además, estoy estudiando desarrollo web Full Stack integrando HTML5, CSS3, Javascript, React JS, Node Js, MongoDB, Firebase, express, orientado a Front-end y Back-end. ",
+      "paragraph4":"Actualmente, estoy mejorando mis habilidades en la tecnología front-end, porque me gusta combinar mi lado artístico con la lógica de la programación.",
+      "paragraph5":"Hoy me veo como un profesional en constante evolución que se adapta a las nuevas tecnologías y nuevas librerías. Me gusta pensar que me estoy convirtiendo en un nuevo profesional que cree en una carrera versátil que combine la programación con la creatividad."
    },
 
    "expertise":{

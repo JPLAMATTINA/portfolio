@@ -23,11 +23,13 @@
                 "contact":"CONTACT ME"
         },
         "description": {
-                "info":"Do you need Creative Designs? A website maybe? I can help",
-                "paragraph":"I grew up professionally in the field of Architecture. I’m graduated at FADU – Buenos Aires University with strong judgment for design, space's living and the need to solve problems. Along my way, I had to open the possibilities in two ways: architecture and technology with the need to show my work. Hence, my interest in programming arises.",
-                "paragraph1":"As an initiative, I did the Java programming career, to orient myself in object's language to be the starting point for begin my career as a software developer",
-                "paragraph2":"Currently, I am studying Full Stack Web development integrating Html, CSS, Javascript, React, Node.js, MongoDB, oriented to Front-end and back-end.",
-                "paragraph3":"Today I see myself as a constantly evolving professional who adapts to new technologies and development frameworks."
+                "paragraph":"I grew up professionally in the field of architecture. I’m graduated at FADU – Buenos Aires University, with strong judgment for design, about space living and the passion about resolve problems.",
+                "paragraph1":"During my career, I had to find new ways to show my work and technology came up as the perfect solution. On my degree, I trained my intuition about making things useful for the human being and make the space living more satisfying. ",
+                "paragraph2":"I find in programing a very useful resource to show my creativity on solving problems for making things better for people who use internet for work and fun. I want to make their life more dynamic and smoother with a strong work in front-end of websites or applications without neglecting the back-end.",
+                "paragraph3":"As an initiative, I did the Java programming career, to orient myself in object's language to be the starting point for begin my career as a software developer.",
+                "paragraph4":"Also, I’m studying Full Stack Web development integrating HTML5, CSS3, JavaScript, React JS, Node Js, MongoDB, Firebase, express, both backend and frontend. Currently, I improving my skills on the front-end tech, because I want to combine my artistic skills with the logic of programing.",
+                "paragraph5":"Today I see myself as a constantly evolving professional who adapts to new technologies and development frameworks. I like to think I’m evolving into a new professional who believes in versatile career mixing programing with creativity."
+
         },
         "expertise":{
                 "place":"Buenos Aires City Government",

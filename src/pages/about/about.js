@@ -40,6 +40,10 @@ const About = () => {
                             {t("description.paragraph2")}
                             <br/>
                             {t("description.paragraph3")}
+                            <br/>
+                            {t("description.paragraph4")}
+                            <br/>
+                            {t("description.paragraph5")}
                       </div>
                    <Col className="d-flex justify-content-center flex-wrap">
                         <div>
