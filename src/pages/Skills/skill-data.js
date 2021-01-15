@@ -19,7 +19,8 @@ import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_JAVA from "../../assets/img/skills/java.svg";
 import L_FIREBASE from "../../assets/img/skills/Firebase.svg";
 import L_PHOTOSHOP from "../../assets/img/skills/PS.svg";
-import L_ILLUSTRATOR from "../../assets/img/skills/Ai.svg";
+//import L_ILLUSTRATOR from "../../assets/img/skills/Ai.svg";
+import L_ILLUSTRATOR from "../../assets/img/skills/Ai.png";
 
 
 export const skills = {
